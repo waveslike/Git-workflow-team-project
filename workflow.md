@@ -7,3 +7,8 @@
   - 소규모의 팀에서는 팀원 모두가 프로젝트 관리자가 되어 중앙 원격 저장소를 관리할 수 있다.
 3. 아주 큰 규모의 분산된 팀에서도 안전하게 협업하기에 좋은 협업 방법이다.  
 4. 오픈소스 프로젝트에서 많이 사용하는 방식이다.  
+
+### 2️⃣ Git workflow (Forking flow) flows
+
+1. 프로젝트 팀 전체가 사용하는 중앙 원격 repository, 개인이 사용하는 개인 원격 repository, 개인이 사용하는 개인 로컬 repository를 아래의 이미지와 같이 생성함.
+![1.jpg](https://drive.google.com/file/d/1IkKhPgOCcrpl5rQ01Uc7thkE4gltxrF2/view?usp=sharing)
