@@ -11,4 +11,4 @@
 ### 2️⃣ Git workflow (Forking flow) flows
 
 1. 프로젝트 팀 전체가 사용하는 중앙 원격 repository, 개인이 사용하는 개인 원격 repository, 개인이 사용하는 개인 로컬 repository를 아래의 이미지와 같이 생성함.
-![1.jpg](https://drive.google.com/file/d/1IkKhPgOCcrpl5rQ01Uc7thkE4gltxrF2/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1IkKhPgOCcrpl5rQ01Uc7thkE4gltxrF2/view?usp=sharing" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
