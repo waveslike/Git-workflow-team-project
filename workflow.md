@@ -26,3 +26,14 @@
 git clone [개인 원격 remote 저장소 주소]
 ```
 ![Alt text](http://alldpublic.kr/SDP_Team/3.jpeg) 
+
+#### 4. 로컬 저장소와 중앙 원격 저장소, 개인 원격 저장소를 연결한다.
+[로컬 저장소 - 중앙 원격 저장소 연결]  
+```
+git remote add center
+```  
+[로컬 저장소 - 개인 원격 저장소 연결]
+```
+git remote add origin
+```
+![Alt text](http://alldpublic.kr/SDP_Team/4.jpeg) 
