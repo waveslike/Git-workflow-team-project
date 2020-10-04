@@ -30,10 +30,20 @@ git clone [개인 원격 remote 저장소 주소]
 #### 4. 로컬 저장소와 중앙 원격 저장소, 개인 원격 저장소를 연결한다.
 [로컬 저장소 - 중앙 원격 저장소 연결]  
 ```
-git remote add center
+$ git remote add center
 ```  
 [로컬 저장소 - 개인 원격 저장소 연결]
 ```
-git remote add origin
+$ git remote add origin
 ```
 ![Alt text](http://alldpublic.kr/SDP_Team/4.jpeg) 
+
+#### 5. 새로운 기능 개발을 위해 격리된 branch를 만든다.
+```
+$ git checkout -b [branch name]
+
+# 위의 명령어는 아래의 두 명령어를 합한 것
+$ git branch [branch name]
+$ git checkout [branch name]
+```
+![Alt text](http://alldpublic.kr/SDP_Team/6.jpeg) 
