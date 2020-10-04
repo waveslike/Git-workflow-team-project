@@ -1,4 +1,4 @@
-# Hanyang Univ. ERICA Software Department [Software Development Practice]  Git workflow team project
+# Hanyang Univ. ERICA Software Department [Software Development Practice] </br>Git workflow team project
 
 ### 1️⃣ Summary team's Git workflow (Forking flow)
 
