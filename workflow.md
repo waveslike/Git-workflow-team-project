@@ -47,3 +47,14 @@ $ git branch [branch name]
 $ git checkout [branch name]
 ```
 ![Alt text](http://alldpublic.kr/SDP_Team/6.jpeg) 
+
+#### 6. 로컬 저장소의 커밋 이력을 자신의 원격 저장소(remote repository)에 푸시한다.
+```
+$ git commit -a -m "Write commit message"
+
+# 위의 명령어는 아래의 두 명령어를 합한 것
+$ git add . # 변경된 모든 파일을 스테이징 영역에 추가
+$ git add [some-file] # 스테이징 영역에 some-file 추가
+$ git commit -m "Write commit message" # local 작업폴더에 history 하나를 쌓는 것
+```  
+![Alt text](http://alldpublic.kr/SDP_Team/7.jpeg) 
