@@ -81,3 +81,11 @@ $ git commit -m "Write commit message" # local 작업폴더에 history 하나를
 $ git pull center master
 ```
 ![Alt text](http://alldpublic.kr/SDP_Team/12.jpeg) 
+
+### 3️⃣ Forking workflow의 장단점
+1. 장점  
+  - 개인 원격 저장소에서 발생한 업데이트는 중앙 원격 저장소에 영향을 주지 않으므로, 다양한 시도를 하기에 좋다.
+  - 어떤 기준에 따라 잘 분류되어 있는 프로젝트에 적용하기 좋다.
+2. 단점
+  - git을 처음 써보는 사람의 경우 workflow를 이해하기가 다른 flow보다 상대적으로 어렵다.
+  - 작업 상황을 자주(짧은 주기로) 리뷰하기가 쉽지 않다. → 통일된 관리가 어렵다.
