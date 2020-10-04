@@ -67,3 +67,6 @@ $ git commit -m "Write commit message" # local 작업폴더에 history 하나를
 
 #### 9. 회의 후 프로젝트 관리자는 merge를 진행한다.
 ![Alt text](http://alldpublic.kr/SDP_Team/10.jpeg) 
+
+#### 10. 중앙 원격 저장소와 자신의 로컬 저장소를 동기화하기 위해 로컬 저장소의 branch를 master branch로 이동한다.
+![Alt text](http://alldpublic.kr/SDP_Team/11.jpeg) 
