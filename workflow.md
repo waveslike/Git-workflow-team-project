@@ -13,5 +13,5 @@
 
 ### 2️⃣ Git workflow (Forking flow) flows
 
-1. 프로젝트 팀 전체가 사용하는 중앙 원격 repository, 개인이 사용하는 개인 원격 repository, 개인이 사용하는 개인 로컬 repository를 아래의 이미지와 같이 생성함.
+1. 프로젝트 팀 전체가 사용하는 중앙 원격 repository, 개인이 사용하는 개인 원격 repository, 개인이 사용하는 개인 로컬 repository를 아래의 이미지와 같이 생성함.  
 ![Alt text](http://alldpublic.kr/SDP_Team/1.jpeg)
